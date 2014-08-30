@@ -1,0 +1,4 @@
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\Blob_Finder\bin\Debug\Blob_Finder.dll
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\Blob_Finder\bin\Debug\Blob_Finder.pdb
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\Blob_Finder\obj\Debug\Blob_Finder.dll
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\Blob_Finder\obj\Debug\Blob_Finder.pdb

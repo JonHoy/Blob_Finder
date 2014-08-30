@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\Scale Cross Section.bmp
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\Blob_Finder.dll
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\bin\Debug\Blob_Finder.pdb
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\obj\Debug\Blob Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jonathan\Documents\GitHub\Blob_Finder\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
